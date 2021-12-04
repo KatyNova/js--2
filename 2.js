@@ -1,4 +1,4 @@
-var month = 11;
+let month = 11;
 if (month >= 1 && month <= 3) {
 alert("Зима");
 } if (month >= 4 && month <= 6) {
